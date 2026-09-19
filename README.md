@@ -4,7 +4,7 @@ A dynamic login page generator that allows users to customize colors, gradients,
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://www.xn--msiu-goa8b.vn/github/simple-theme-login-site-generator](https://www.xn--msiu-goa8b.vn/github/simple-theme-login-site-generator)
+Check out the live demo: [https://www.sieu.io.vn/github/simple-theme-login-site-generator](https://www.sieu.io.vn/github/simple-theme-login-site-generator)
 
 ## ✨ Features
 
